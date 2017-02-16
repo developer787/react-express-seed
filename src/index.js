@@ -7,6 +7,5 @@ import './index.css';
 
 ReactDOM.render(
   <App />,
-  <Toggle />,
   document.getElementById('root')
 );
