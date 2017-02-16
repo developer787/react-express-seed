@@ -37,7 +37,10 @@
     "postcss-loader": "1.2.2",
     "promise": "7.1.1",
     "react-dev-utils": "^0.5.0",
+    "react-redux": "^5.0.2",
     "recursive-readdir": "2.1.0",
+    "redux": "^3.6.0",
+    "redux-devtools": "^3.3.2",
     "strip-ansi": "3.0.1",
     "style-loader": "0.13.1",
     "url-loader": "0.5.7",
@@ -88,6 +91,6 @@
     "extends": "react-app"
   },
   "engines": {
-  "node": "7.4.0"
-}
+    "node": "7.4.0"
+  }
 }
